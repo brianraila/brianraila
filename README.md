@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love code, so should you.
+
 <!--
 **brianraila/brianraila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
