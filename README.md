@@ -2,7 +2,7 @@
 
 I love to code, so should you.
 
-😄 Pronouns: He/him
+
 <!--
 **brianraila/brianraila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
